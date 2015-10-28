@@ -45,7 +45,7 @@ return [
 		],
 		'mysql' => [
 			'driver'    => 'mysql',
-			'host'      => 'DB_HOST', '46.101.9.208',
+			'host'      => 'DB_HOST', 'localhost',
 			'database'  => 'DB_DATABASE', 'studio28',
 			'username'  => 'DB_USERNAME', 'forge',
 			'password'  => 'DB_PASSWORD', 'pm8nmutzG56QdwGRlejh',
